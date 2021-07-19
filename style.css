@@ -232,7 +232,7 @@ img {
   justify-content: center;
   text-align: center;
   top:2rem;
-  box-sizing: none
+  box-sizing: block
   
 }
   .textmaterial p {
