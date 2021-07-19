@@ -86,9 +86,13 @@ body p{
 body p a {text-decoration: none;
     color: cornsilk;}
 
-@media(max-width:960px)
-{.scrolling {font-size: 0.1em; 
+@media screen and (min-width:960px){
+    body .scrolling {font-size: 0.1em; 
     justify-content: center;
     align-items:center;
     padding:0;
     top,left,right,bottom:0;}
+*{align-items:center;
+    text-align:center;
+    justify-content:center;}
+    }
