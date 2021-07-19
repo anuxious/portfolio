@@ -225,7 +225,7 @@ img {
     display: none;
   }
 
-.main-header {
+.textmaterial {
     max-width: 100%;
   height: 55vh;
   padding: 0rem;
@@ -236,7 +236,7 @@ img {
   text-align: center;
   
 }
-  .main-header p {
+  .textmaterial p {
   font-size: 0.25rem;
 padding-left: 1em;
 padding-right: 1em;
