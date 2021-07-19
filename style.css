@@ -235,10 +235,11 @@ img {
   
 }
   .textmaterial p {
-  font-size: 1rem;
-padding-left: 0.1em;
-padding-right: 0.1em;
-padding-top: 1rem;
+font-size: 1rem;
+left: 0.1em;
+right: 0.1em;
+top: 1rem;
+    bottom: 1rem;
 color: #F3E1D3  ;
 font-family:  'Poppins', sans-serif;
 }
