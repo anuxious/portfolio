@@ -3,7 +3,6 @@
   padding: 2;
   box-sizing: border-box;
 }
-
 body {
   font-size: 1.3rem;
   font-family: 'Oswald', sans-serif;
@@ -98,7 +97,7 @@ img {
   opacity: 0.8;
 }
 
-@media(max-width:600px) {
+@media(max-width:960px) {
   .card {
     display: block;
   }
@@ -215,7 +214,7 @@ img {
   }
   .card img{height: 100%;}
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 960px) {
   .wiggle {
     visibility: hidden;
     clear: both;
