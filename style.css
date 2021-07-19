@@ -224,12 +224,6 @@ img {
     width: 28%;
     display: none;
   }
-  .container {
-  max-width: 100%;
-  margin: auto;
-  overflow: auto;
-  padding: 0 2rem;
-}
 
 .main-header {
     max-width: 100%;
@@ -242,4 +236,10 @@ img {
   text-align: center;
   
 }
+  .main-header p {
+  font-size: 0.25rem;
+padding-left: 1em;
+padding-right: 1em;
+color: #F3E1D3  ;
+font-family:  'Poppins', sans-serif;
 }
