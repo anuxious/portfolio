@@ -216,7 +216,7 @@ img {
   .card img{height: 100%;}
 
 @media screen and (max-width: 600px) {
-  #box {
+  #wiggle {
     visibility: hidden;
     clear: both;
     float: left;
